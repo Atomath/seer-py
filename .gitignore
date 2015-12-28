@@ -1,0 +1,10 @@
+.DS_Store
+*.bak
+*.pyc
+_build/
+_static
+_templates
+tests/
+seer.egg-info/
+dist/
+build/
