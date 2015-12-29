@@ -17,7 +17,7 @@ $ pip install requests==2.8.1
 $ cd seer-py && python setup.py install
 
 # or
-$ cd seer-py && pip install seer
+$ pip install seer
 ```
 
 
